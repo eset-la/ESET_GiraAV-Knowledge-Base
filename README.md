@@ -1,6 +1,6 @@
 <h1>
-  <img src="Logo_GIra/GIRA-AV_-negativo_fondo_oscuro.jpg" alt="Logo" width="100" />
-  PROJECT!! ESET_GiraAV-Knowledge-Base
+  <img src="Logo_Gira/image.png" alt="Logo" width="200"  />
+  ESET_GiraAV-Knowledge-Base
 </h1>
 
 <p>
@@ -11,7 +11,7 @@
 
 ## 📖 Contenidos  
 
-- [🎓 Cybersecurity University](Cybersecurity_University/Readme.md) 
+- [🎓 Cybersecurity University](Cybersecurity_university/Readme.md) 
 - [🔧 Specialized Tools by Topic](Tools/Readme.md)  
 - [🏴‍☠️ CTF (Capture The Flag)](CTF/Readme.md)  
 - [💰 Bug Bounty ](BugBounty/Readme.md)  
